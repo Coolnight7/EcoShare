@@ -30,13 +30,19 @@ In the age of fast communication and data exchange, ECOshare aims to provide an 
 
 ---
 
+## Preview 
+
+<img width="1892" height="910" alt="Screenshot 2025-08-06 163220" src="https://github.com/user-attachments/assets/e16758bf-cbc9-42b2-addf-bf62b27ec972" />
+
+---
+
 ## 📞 Contact
 
 Have feedback, ideas, or need help? Reach out!
 
-- 📧 Email: [youremail@example.com]
-- 💬 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)
+* Name : Amina Subhedar
+* Email: aminasubhedar2022@gmail.com
+* Github: https://github.com/Coolnight7
 
 ---
 
